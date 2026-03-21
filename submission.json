@@ -1,7 +1,7 @@
 {
-  "prompt": "A deeply emotional and conceptually powerful image of a vast open landscape populated by faint human silhouettes. Across the scene, large regions show complete absence where silhouettes should exist, forming uneven and clustered gaps. Some silhouettes appear partially faded or dissolving into dust, leaving traces of where they once stood. The absence is not uniform, but concentrated in certain areas, creating a disturbing spatial pattern of loss. The scene is quiet, minimal, and somber, with soft atmospheric lighting and subtle haze. cinematic lighting, volumetric atmosphere, high depth, minimalistic but detailed, photorealistic, magazine editorial style, no text, no labels, no weapons, no explosions, no symmetry",
-  "model": "DALL·E 3",
+  "prompt": "A powerful and conceptually precise image of a large field of evenly spaced human silhouettes arranged in a clean, grid-like formation, representing a population. A significant portion of the silhouettes are completely missing, forming a large, sharply defined geometric void within the grid. The absence is not random but structured and deliberate, clearly representing a measurable proportion of loss. The remaining silhouettes are still and minimal, while the empty space creates strong visual tension. The void feels unnatural and disturbing in its precision, emphasizing the scale of lives lost. Soft neutral lighting, minimalistic composition, high clarity, subtle atmospheric depth, photorealistic but restrained, magazine editorial style. No text, no labels, no dust, no explosions, no weapons, no haze overload, no symmetry, no centered composition.",
+  "model": "Gemini Nano",
   "dataset_name": "UCDP Battle-Related Deaths Dataset",
   "dataset_url": "https://ucdp.uu.se/downloads/",
-  "insight": "Modern conflicts are defined by uneven and concentrated loss of human life, leaving entire regions marked by absence."
+  "insight": "A measurable proportion of populations in conflict zones is lost, creating structured and uneven absence rather than random loss."
 }

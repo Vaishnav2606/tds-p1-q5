@@ -3,6 +3,6 @@
   "model": "DALL·E 3",
   "dataset_name": "UCDP Battle-Related Deaths Dataset",
   "dataset_url": "https://ucdp.uu.se/downloads/",
-  "insight": "Modern conflicts are defined by uneven and concentrated loss of human life, leaving entire regions marked by absence."
+  "insight": "Modern conflicts are defined by uneven and concentrated loss of human life, leaving entire regions marked by absence.",
   "publish_email": true
 }
